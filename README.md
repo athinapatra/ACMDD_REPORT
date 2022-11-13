@@ -59,4 +59,3 @@ Following we can see some docking poses of the generated molecule which presente
 4. Duong MTH, Lee JH, Ahn HC. C-Jun N-terminal kinase inhibitors: Structural insight into kinase-inhibitor complexes. Comput Struct Biotechnol J. 2020;18:1440-1457. doi:10.1016/j.csbj.2020.06.013
 5. Szczepankiewicz BG, Kosogof C, Nelson LTJ, et al. Aminopyridine-based c-Jun N-terminal kinase inhibitors with cellular activity and minimal cross-kinase activity. J Med Chem. 2006;49(12):3563-3580. doi:10.1021/jm060199b
 6. Sydow D, Morger A, Driller M, Volkamer A. TeachopenCadd: A teaching platform for computer-aided drug design using open source packages and data. J Cheminform. 2019;11(1):1-7. doi:10.1186/s13321-019-0351-x
-![image](https://user-images.githubusercontent.com/118119791/201533560-5151a010-b7d5-401d-b825-50532ef544f1.png)
