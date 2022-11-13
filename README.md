@@ -12,6 +12,7 @@ Much collaborative effort has been made to produce small molecule JNK-1 inhibito
 In the code file the python code that was used in the search for novel JNK-1 inhibitors can be found.
 
 **2. DISCUSSION**
+
 During the similarity investigation, we searched three different databases which comprise large repositories of millions of freely accessible compounds. Particularly, in ChEMBL no similar compounds were obtained when setting the similarity index to 80%, whereas in the PubChem database we obtained 6 compounds with 90% similarity and 125 compounds when the similarity index was set to 80%. This can be explained by the fact that in PubChem 329 million compounds are registered whereas in ChEMBL only 2.5 million compounds can be found. Finally, the Zinc database contains over 230 million purchasable compounds, in ready-to-dock 3D formats, in which 4 compounds were obtained with a similarity of 70% to our ligand. For the Machine Learning part of the study, we downloaded compounds from ChEMBL.
 In the Machine Learning as well as in the docking exercises we tried to run different molecules based on the two chemical structures of the compounds that have reached the clinical phase I and I, targeting JNK1. Taking into account our reference co-crystallized ligand we got a deeper insight into its main interactions with our protein of interest, JNK1, using the Protein Ligand Interaction Profiler (PLIP). In this way, we could generate derivatives that entail similar interactions with amino acids existing in close proximity to the binding site. 
 
