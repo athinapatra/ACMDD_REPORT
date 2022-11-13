@@ -50,3 +50,6 @@ For our second parent compound, we generated one more molecule. Following a simi
 Following we can see some docking poses of the generated molecule which presented a docking score of -8.537 kcal/mol compared to the parent compound which presented a docking score of -8.786 kcal/mol.
 
 <img width="1440" alt="Screenshot 8" src="https://user-images.githubusercontent.com/118119791/201531874-a640eb6e-b68b-4cf4-9505-fe2bfc7a7763.png">
+
+**3. References**
+
