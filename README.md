@@ -53,3 +53,10 @@ Following we can see some docking poses of the generated molecule which presente
 
 **3. References**
 
+1. U.S. National Library of Medicine. (n.d.). MAPK8 mitogen-activated protein kinase 8 [homo sapiens (human)] - gene - NCBI. National Center for Biotechnology Information. Retrieved November 13, 2022, from https://www.ncbi.nlm.nih.gov/gene/5599 
+2. Wu Q, Wu W, Jacevic V, Franca TCC, Wang X, Kuca K. Selective inhibitors for JNK signalling: a potential targeted therapy in cancer. J Enzyme Inhib Med Chem. 2020;35(1):574-583. doi:10.1080/14756366.2020.1720013
+3. Yi P, Qiu M. 3D-QSAR and docking studies of aminopyridine carboxamide inhibitors of c-Jun N-terminal kinase-1. Eur J Med Chem. 2008;43(3):604-613. doi:10.1016/j.ejmech.2007.04.020
+4. Duong MTH, Lee JH, Ahn HC. C-Jun N-terminal kinase inhibitors: Structural insight into kinase-inhibitor complexes. Comput Struct Biotechnol J. 2020;18:1440-1457. doi:10.1016/j.csbj.2020.06.013
+5. Szczepankiewicz BG, Kosogof C, Nelson LTJ, et al. Aminopyridine-based c-Jun N-terminal kinase inhibitors with cellular activity and minimal cross-kinase activity. J Med Chem. 2006;49(12):3563-3580. doi:10.1021/jm060199b
+6. Sydow D, Morger A, Driller M, Volkamer A. TeachopenCadd: A teaching platform for computer-aided drug design using open source packages and data. J Cheminform. 2019;11(1):1-7. doi:10.1186/s13321-019-0351-x
+![image](https://user-images.githubusercontent.com/118119791/201533560-5151a010-b7d5-401d-b825-50532ef544f1.png)
